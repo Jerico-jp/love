@@ -9,7 +9,7 @@
             "type": "msedge",
             "request": "launch",
             "name": "Open amor.html",
-            "file": "c:\\xampp\\htdocs\\love\\amor.html"
+            "file": "c:\\xampp\\htdocs\\love\\index.html"
         }
     ]
 }
